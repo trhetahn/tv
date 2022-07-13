@@ -1,7 +1,5 @@
-#EXTM3U
-#EXTINF:-1,CHCH
+#EXTM3U url-tvg="http://m3u4u.com/epg/68m7n44gzds4rq32n1ge"
+#EXTINF:-1 tvg-id="CHCH(English).ca" tvg-name="CHCH" tvg-logo="" group-title="(no group)" tvg-shift="-4",CHCH
 https://trhetahn.github.io/tv/ch.m3u8
-#EXTINF:-1,CBC News Network
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
-#EXTINF:-1,CBC Toronto
-https://dai.google.com/linear/hls/pa/event/ZX-bVk6oQHyOaEJSRmxUlg/stream/93eb1081-a5c9-49a6-8947-c70d8fe76f2c:MRN2/master.m3u8
+
+
